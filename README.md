@@ -1,6 +1,7 @@
 # Free Email Scraper
 
-This is a simple email scraper tool that allows you to extract email addresses from a given webpage URL. The scraper uses Python to automate the extraction process and can be easily run with minimal setup.
+This is a Chrome extension that allows you to extract email addresses from any webpage directly in your browser. Lightweight, easy to use, and perfect for anyone looking to gather email data quickly.
+Just extract the files and go to chrome extension and enable develope mode and unpack the files folder then just click on the extraction icon to use it.GGs,follow me on insta to get more extension for free
 
 ## Features:
 - Scrapes email addresses from any given webpage.
